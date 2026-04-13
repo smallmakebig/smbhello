@@ -1,0 +1,105 @@
+{
+  "site_name": "SMB Training Hub",
+  "site_description": "Knowledge Base nội bộ",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Tổng quan Debt Settlement",
+      "icon": "📋",
+      "file": "content/tong-quan.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 1
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh & Lợi ích",
+      "icon": "💪",
+      "file": "content/diem-manh.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 2
+    },
+    {
+      "id": "comparison",
+      "title": "So sánh Phương án",
+      "icon": "⚖️",
+      "file": "content/so-sanh.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 3
+    },
+    {
+      "id": "faq",
+      "title": "Câu hỏi Thường gặp",
+      "icon": "❓",
+      "file": "content/faq.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 4
+    },
+    {
+      "id": "marketing",
+      "title": "Marketing cần biết",
+      "icon": "📢",
+      "file": "content/marketing.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 5
+    },
+    {
+      "id": "resources",
+      "title": "Nguồn tham khảo Uy tín",
+      "icon": "📚",
+      "file": "content/nguon-tham-khao.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 6
+    },
+    {
+      "id": "glossary",
+      "title": "Thuật ngữ Quan trọng",
+      "icon": "📖",
+      "file": "content/thuat-ngu.md",
+      "group": "Kiến thức Nền tảng",
+      "status": "active",
+      "order": 7
+    },
+    {
+      "id": "sales",
+      "title": "Sales Script & Kỹ năng (EN)",
+      "icon": "🇺🇸",
+      "file": "content/sales.md",
+      "group": "Kỹ năng Chuyên môn",
+      "status": "coming",
+      "order": 8
+    },
+    {
+      "id": "crm",
+      "title": "CRM & Hệ thống",
+      "icon": "💻",
+      "file": "content/crm.md",
+      "group": "Kỹ năng Chuyên môn",
+      "status": "coming",
+      "order": 9
+    },
+    {
+      "id": "compliance",
+      "title": "Compliance & Cập nhật",
+      "icon": "⚠️",
+      "file": "content/compliance.md",
+      "group": "Kỹ năng Chuyên môn",
+      "status": "coming",
+      "order": 10
+    },
+    {
+      "id": "cskh",
+      "title": "Chăm sóc Khách hàng",
+      "icon": "🤝",
+      "file": "content/cskh.md",
+      "group": "Kỹ năng Chuyên môn",
+      "status": "coming",
+      "order": 11
+    }
+  ]
+}
