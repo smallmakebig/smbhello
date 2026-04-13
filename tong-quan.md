@@ -2,13 +2,13 @@
 
 ## Debt Settlement là gì?
 
-**Debt Settlement** (Giải quyết nợ) là quy trình thương lượng với các chủ nợ (creditors) để thanh toán khoản nợ với số tiền **thấp hơn tổng số nợ gốc**. Thay vì trả toàn bộ số tiền nợ, khách hàng chỉ cần trả một phần — thường tiết kiệm được **30% đến 50%** so với tổng nợ ban đầu.
+**Debt Settlement** (Giải quyết nợ) là quy trình thương lượng với các chủ nợ (creditors) để thanh toán khoản nợ với số tiền **thấp hơn tổng số nợ gốc**. Thay vì trả toàn bộ số tiền nợ, khách hàng chỉ cần trả một phần — thường tiết kiệm được **30% đến 50% tối đa 70%** so với tổng nợ ban đầu.
 
 ## Quy trình hoạt động
 
 **Bước 1 — Đăng ký chương trình:** Khách hàng đăng ký với công ty debt settlement. Tất cả các khoản nợ unsecured (thẻ tín dụng, personal loan, medical bill) được đưa vào chương trình.
 
-**Bước 2 — Mở tài khoản FDIC-insured:** Một tài khoản tiết kiệm được bảo hiểm FDIC được mở riêng cho khách hàng. Khách hàng kiểm soát 100% tài khoản này.
+**Bước 2 — Mở tài khoản Escrow (FDIC-insured):** Một tài khoản tiết kiệm được bảo hiểm FDIC được mở riêng cho khách hàng. Khách hàng kiểm soát 100% tài khoản này.
 
 **Bước 3 — Tích lũy quỹ:** Khách hàng đóng góp hàng tháng vào tài khoản Escrow thay vì trả cho chủ nợ. Số tiền đóng góp dựa trên khả năng tài chính thực tế.
 
